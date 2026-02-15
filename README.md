@@ -20,6 +20,15 @@ price discovery, and negotiation assistance.
 - AI Design: Kiro (Prompt-driven development)
 - Architecture: Full-stack web application with REST APIs
 
+  ---
+
+## 📸 Screenshots
+
+### Dashboard Overview
+![Multilingual Mandi Dashboard](screenshots/app.png)
+
+---
+
 ## 🇮🇳 Bharat Impact
 This project reduces language barriers, improves price transparency,
 and empowers small vendors — contributing to a **Viksit Bharat**.
@@ -30,4 +39,5 @@ The `.kiro` directory is included as required by the challenge.
 
 ## 📌 Challenge Details
 - Event: 26 January Prompt Challenge
+
 - Theme: AI for Bharat
