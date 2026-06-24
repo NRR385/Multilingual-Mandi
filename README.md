@@ -1,4 +1,4 @@
-# 🌾 Multilingual Mandi -- AI for Bharat 🇮🇳
+# 🌾 Multilingual Mandi
 
 > AI-powered multilingual marketplace assistant designed to empower **local Indian mandi vendors and buyers** through transparent pricing and language accessibility.
 
