@@ -11,7 +11,7 @@ Built for the **26 January Prompt Challenge -- AI for Bharat**.
 In many Indian mandis (local markets), farmers and buyers face two major
 problems:
 
--   🌐 **Language barriers** between buyers and sellers\
+-   🌐 **Language barriers** between buyers and sellers
 -   💰 **Unclear or unfair pricing** during negotiations
 
 **Multilingual Mandi** solves this using AI by providing:
@@ -32,8 +32,8 @@ accessible for everyone in Bharat.**
 AI-powered translation enabling vendors and buyers to communicate in
 different Indian languages.
 
-Example: - Farmer speaks Telugu\
-- Buyer speaks Hindi\
+Example: - Farmer speaks Telugu
+- Buyer speaks Hindi
 - AI translates conversation instantly
 
 ------------------------------------------------------------------------
@@ -42,8 +42,8 @@ Example: - Farmer speaks Telugu\
 
 Provides intelligent price guidance using mandi-style data:
 
--   Minimum market price\
--   Average mandi price\
+-   Minimum market price
+-   Average mandi price
 -   Recommended selling price
 
 Helps farmers **avoid underpricing their crops.**
@@ -54,8 +54,8 @@ Helps farmers **avoid underpricing their crops.**
 
 AI analyzes offers and suggests whether the deal is:
 
--   ❌ Too Low\
--   ⚖ Fair Price\
+-   ❌ Too Low
+-   ⚖ Fair Price
 -   ✅ Good Deal
 
 This helps farmers **make confident selling decisions.**
@@ -66,8 +66,8 @@ This helps farmers **make confident selling decisions.**
 
 Designed for ease of use by local vendors.
 
--   Simple UI\
--   Fast responses\
+-   Simple UI
+-   Fast responses
 -   Accessible from low-end devices
 
 ------------------------------------------------------------------------
@@ -86,10 +86,6 @@ Designed for ease of use by local vendors.
 -   Node.js
 -   Express
 -   REST APIs
-
-### AI Development
-
--   Prompt-driven architecture using **Kiro**
 
 ### Deployment
 
@@ -156,7 +152,7 @@ Open:
 
 # 📌 Challenge Details
 
-**Event:** 26 January Prompt Challenge\
+**Event:** 26 January Prompt Challenge
 **Theme:** AI for Bharat 🇮🇳
 
 This project demonstrates how **AI can empower local economies and
